@@ -1,0 +1,63 @@
+# 🔥 IntelliJ IDEA & Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 🔥 VSCode
+.vscode/
+
+# 🔥 Gradle Cache & Wrapper
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# 🔥 Kotlin/Java Build Output
+out/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# 🔥 Log & Reports
+*.log
+*.hprof
+*.stacktrace
+
+# 🔥 OS Dateien
+.DS_Store
+Thumbs.db
+
+# 🔥 JetBrains Rider & CLion (falls genutzt)
+.idea/
+cmake-build-*/
+
+# 🔥 Local Properties (z.B. für Android)
+local.properties
+
+# 🔥 Android spezifisch
+*.apk
+*.ap_
+*.dex
+
+# 🔥 Test Results
+test-results/
+test-output/
+
+# 🔥 Kotlin/Java Coverage Reports
+*.exec
+*.ec
+coverage/
+
+# 🔥 Backup & temp files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# 🔥 Gradle Daemon
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
